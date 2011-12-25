@@ -23,7 +23,6 @@
 
 $: << File::dirname(__FILE__)
 require 'rubygems'
-require 'base64'
 require 'socket'
 require 'twitter'
 require 'mechanize'
